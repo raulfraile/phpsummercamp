@@ -1,0 +1,14 @@
+{
+    "name": "raulfraile/phpsummercamp",
+    "authors": [
+        {
+            "name": "Raul Fraile",
+            "email": "raulfraile@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/php-parser": "1.0.0beta1",
+        "raulfraile/ladybug": "~1.0",
+        "symfony/finder": "2.5.3"
+    }
+}
